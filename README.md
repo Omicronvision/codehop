@@ -15,4 +15,4 @@
 ```
 
 ## HOW TO INSTALL AND USE CODEHOP?
-**>Codehop is an interpreted programming language written in C++, It reads a file that is called "CodeHopFile.txt" and interprets it. You will have to write your code in this file and launch CodeHop.exe to read it.**
+**CodeHop was written in C++, It reads a file that is called "CodeHopFile.txt" and interprets it. You will have to write your code in this file and launch CodeHop.exe. Make sure that CodeHopFile.txt is in the codehop folder!**

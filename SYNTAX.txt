@@ -15,7 +15,7 @@
 - - Substract one to the value of x.
 * - Add the square of x to x.
 } - Select the next x.
-} - Select the previous x.
+{ - Select the previous x. 
 $ - Add the ASCII value to the string.
 : - Output the string.
 \ - Reset the string.

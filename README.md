@@ -7,11 +7,7 @@
 
 ## SIMPLE PROGRAM?
 >Here it is, a calculator (addition only):
-?}#
-?#
--{+}_#
-{=#
-
-
-
-
+?}#                                                                                                                                
+?#                                                                                                                                                                                                                                                                
+-{+}_#                                                                                                                                                                                                                                                                
+{=#                                                                                                                                

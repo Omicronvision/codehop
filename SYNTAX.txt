@@ -22,3 +22,6 @@ $ - Add the ASCII value to the string.
 & - Skip two instructions if the value of x equals to 0.
 _ - Repeat the same line until x equals to 0.
 ~ - Repeat the after the first three characters same line until x equals to 0 (useful with a &).
+, - Copy the value of x.
+; - Add the copied value of x to x.
+r - Select a random value of x between 0 and 10.
